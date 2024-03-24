@@ -51,4 +51,4 @@ models:
         description: Defines whether the host is a superhost.
         tests:
           - accepted_values:
-            values: ['t', 'f']
+              values: ['t', 'f']
